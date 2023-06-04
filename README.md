@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Raazseven
 - 👀 I’m just here.
-- 🌱 I’m currently learning basics of rust
 - 📫 How to reach me @rajsanjel228@gmail.com
 
 <!---
